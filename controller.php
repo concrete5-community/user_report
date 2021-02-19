@@ -14,7 +14,7 @@ class Controller extends Package
 {
     protected $pkgHandle = 'user_report';
     protected $appVersionRequired = '8.0.0';
-    protected $pkgVersion = '1.0';
+    protected $pkgVersion = '1.0.1';
     protected $pkgAutoloaderRegistries = [
         'src/UserReport' => '\A3020\UserReport',
     ];
